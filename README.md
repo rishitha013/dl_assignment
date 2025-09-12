@@ -20,7 +20,9 @@ Install the required libraries:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn opencv-python tensorflow keras pillow
 
-##📂 Project Workflow
+---
+
+##  📂 Project Workflow
 1. Dataset Preparation
 
 Images organized into folders by class.
@@ -60,6 +62,8 @@ Pretrained ResNet50 model with fine-tuning.
 Input size: 224x224.
 
 Outperformed all methods with 90%+ accuracy.
+
+---
 
 ## Conclusion
 
